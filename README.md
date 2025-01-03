@@ -41,9 +41,9 @@ Include links or screenshots of:
 
 ## Files
 - `useOfInterfaceBlazeDemo.jmx`: The JMeter test plan. 
-- `/Destination :  Contains the CSV file used for select diffents destinations.
+- `/Destination`:  Contains the CSV file used for select diffents destinations.
 - `/PersonalData`: Contains the CSV file used for confirmation data in the tests.
-- `/results`: Contains the HTML report generated from the tests.
+- `/report`: Contains the HTML report generated from the tests.
 
 ## Conclusion
 This project demonstrates my ability to:
