@@ -1,0 +1,5 @@
+_token,inputName,address,city,state,zipCode,cardType,creditCardNumber,creditCardMonth,creditCardYear,nameOnCard
+,Hettie,2101 Abbott Rd,Anchorage,Alaska,99507,Visa,3582403452179928,11,2028,Hettie Kertzmann
+,Bennie,1425 Lincoln Way,Auburn,California,95603,American Express,8699647616800642,1,2029,Bennie Maggio
+,Noah,80 29th St,San Francisco,California,94110,Visa,4916294261649663,1,2027,Noah Quitzon
+,Ramon,20 14th Av,New York City,NewCity,101102,American Express,1234567898765432,2,2029,Ramon Chico
